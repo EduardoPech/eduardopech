@@ -1,16 +1,13 @@
-### Hi there 👋
+### ¡Hola! Soy Eduardo Pech 👋
 
-<!--
-**EduardoPech/eduardopech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Soy un desarrollador Frontend con 5 años de experiencia. Trabajo con ReactJS/VueJS/Javascript usando las mejores prácticas. Soy de Mérida, Yucatán y me encanta conocer lugares con paísajes increibles. Me apasiona crear interfaces para que los usuarios tengan la mejor experiencia. ✨
 
-Here are some ideas to get you started:
+Todo lo que me gusta hacer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ReactJS
+- VueJS
+- TypeScript
+- Javascript
+- Jest
+- NodeJS
+- ⚡ Jugar ajedrez
