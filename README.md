@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Eduardo Pech 👋
 
-✨ Soy un desarrollador Frontend con 5 años de experiencia. Trabajo con ReactJS/VueJS/Javascript usando las mejores prácticas. Soy de Mérida, Yucatán y me encanta conocer lugares con paísajes increibles. Me apasiona crear interfaces para que los usuarios tengan la mejor experiencia. ✨
+✨ Soy un desarrollador Frontend. Trabajo con ReactJS/VueJS/Javascript usando las mejores prácticas. Soy de Mérida, Yucatán y me encanta conocer lugares con paísajes increibles. Me apasiona crear interfaces para que los usuarios tengan la mejor experiencia. ✨
 
 Todo lo que me gusta hacer:
 
